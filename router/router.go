@@ -3,7 +3,7 @@ package router
 import (
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
-	"github.com/tkitsunai/echo-routing-test/router/handler"
+	"github.com/tkitsunai/echo-routing-misc/router/handler"
 )
 
 type Router interface {

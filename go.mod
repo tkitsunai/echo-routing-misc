@@ -1,4 +1,4 @@
-module github.com/tkitsunai/echo-routing-test
+module github.com/tkitsunai/echo-routing-misc
 
 go 1.12
 
